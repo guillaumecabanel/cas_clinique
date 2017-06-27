@@ -21,6 +21,7 @@ Jeune homme, agé de 27 ans, ayant un certains nombres d'antécédents médicaux
 
 notes:
 Toujours à faire des exentricités principalement à cause d'un terrain familial faorisant ce type de comportement.
+(1/2)
 
 ---
 
@@ -28,6 +29,7 @@ Toujours à faire des exentricités principalement à cause d'un terrain familia
 
 notes:
 Toujours à faire des exentricités principalement à cause d'un terrain familial faorisant ce type de comportement.
+(2/2)
 
 ---
 
@@ -74,10 +76,17 @@ Trouble du comportement
 
 ---
 
-![photo avec les cheuveux longs](images/...jpg)
+![](images/capilaire1.jpg)
 
 notes:
-Développement capilaire anarchique
+Développement capilaire anarchique (1/2)
+
+---
+
+![](images/capilaire.jpg)
+
+notes:
+Développement capilaire anarchique (2/2)
 
 ---
 
@@ -92,6 +101,12 @@ Développement physique et musculaire
 
 notes:
 Conduite à risque
+
+---
+
+![](images/intelectuel.jpg)
+notes:
+perte de factultés intelectuelles
 
 ---
 
