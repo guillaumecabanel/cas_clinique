@@ -1,120 +1,104 @@
-# Cas clinique
-## de M. C et MME. M
-
 notes:
-Chers collègues, merci d'être venu aussi nombreux pour la présentation de notre cas clinique concernant le patient C. et la patiente M.
+G : Allo Lulu ? Tu sais que c’est le mariage de Morgane et Colin ce week-end ?
 
-Les symptômes exrimés par ces deux patients sont en effet très atypiques et nous nous devons de vous faire la synthèse de l'ensemble de nos travaux de recherche à ce sujet.
+(L : bah oui oui je sais, j’ai fait 150 livrets de messe le week-end dernier avec Morgane je peux te dire que je m’en souviens)  T’as préparé un discours au fait ?
 
-Commencons par le patient C.
+G : Non, mais j’ai commencé à récupérer quelques photos de Colin quand il était petit...
+
+L : Faut vraiment qu’on s’active. En même temps c’est pas facile y’a tellement de chose à raconter, et tellement à pas raconter aussi…
+
+G : oui et puis parler devant 200 personnes, l’angoisse…
+
+L : C’est clair..
+
+G : T’as quoi comme photos toi ?
 
 ---
 
-# Monsieur C.
+![](images/baton.jpg)
 
 notes:
-Jeune homme, agé de 27 ans, ayant un certains nombres d'antécédents médicaux, et pas des moindres :...
+L : Y’a celle-ci où il est vraiment trop mimi.
+
+G : C’était à l’époque où t’existais pas encore ça ! C’est vrai qu’il était blond quand il était petit … T’es sur que c’est notre frère d’ailleurs ?
+
+L : Je pense que ça ne fait plus aucun doute  aujourd’hui ! Quand j’étais petite il arrêtait pas de dire que j’avais été adoptée.. Surement pour m’embêter !
+
+G : Pour t’embêter ? Coco ? C’est pas son genre
+
+L : C’était comment quand j’étais pas encore né ?
 
 ---
 
-![](images/mini-pheno.jpg)
+![](images/foot.jpg)
 
 notes:
-Toujours à faire des exentricités principalement à cause d'un terrain familial faorisant ce type de comportement.
-(1/2)
+G : C'était cool, on pouvait jouer au foot pénard
+
+---
+
+![](images/arbre.jpg)
+
+notes:
+G : Il me suivait partout...
 
 ---
 
 ![](images/clown.jpg)
 
 notes:
-Toujours à faire des exentricités principalement à cause d'un terrain familial faorisant ce type de comportement.
-(2/2)
+G : Il faisait tout comme moi.
+[Histoire ciseau.]
 
 ---
 
-![](images/isolé.jpg)
+![](images/turban.jpg)
 
 notes:
-Mais souvent livré à lui-même.
+L : Regarde-moi ce phénomène
 
 ---
 
-![casse-cou](images/casse-cou.jpg)
+![](images/randocochonou.jpg)
 
 notes:
-Casse-cou
+G : Bah ça a pas changé , 25 ans plus tard toujours le même
 
 ---
 
-![](images/necker.jpg)
+![](images/70th.jpg)
 
 notes:
-Plus de 35 consultations aux urgences de l'Hopital Necker à Paris, entre 2 et 13 ans
+G: Faut dire qu’il n’est pas aidé le pauvre, entre sa famille et ses amis, ça vole pas haut
 
 ---
 
-## Traitement
-
+![](images/ski.jpg)
 
 notes:
-Pas de traitement particulier en dehors d'un verre de Kikoupumplemouss' de façon occasionnelle. [enregistrement]
+L : Haha oui je me souviens. Et puis qu’est-ce qu’il a pu faire comme excentricités... Un vrai bout en train !
 
 ---
 
-### Histoire de la maladie
+![Photo mariage civil como](images/6.jpg)
 
 notes:
-HDM: Depuis 2007, il semblerait que monsieur C se soit calmé. Nous n'avons pas tout de suite trouver de cause à cet effet mais après de nombreuses études faites à ce sujet, il semblerait que ce phénomène soit lié à la rencontre de Mlle M.
+G : Heureusement que Morgane est là pour le canaliser de temps en temps. Tu te souviens la première fois que tu l’a rencontré ?
 
 ---
 
-![](images/fleur.jpg)
+![](images/comojeune.jpg)
 
 notes:
-Trouble du comportement
+L : Oui, j’étais toute petite, on habitait rue du regard et je me souviens de la première fois où elle venue, je me suis dit : waaah, elle est trop belle elle est blonde et en plus elle fait de la natation
+
+L : On aurait pas mieux rêvé comme belle-sœur honnêtement, enfin c’est pas pour te mettre la pression mon Guigui mais la barre est très haute là.
 
 ---
 
-![](images/capilaire1.jpg)
+![colin et morgane](images/8.jpg)
 
 notes:
-Développement capilaire anarchique (1/2)
+Diapo de fin
 
 ---
-
-![](images/capilaire.jpg)
-
-notes:
-Développement capilaire anarchique (2/2)
-
----
-
-![photo rugby](images/...jpg)
-
-notes:
-Développement physique et musculaire
-
----
-
-![conduite à risque](images/risque.jpg)
-
-notes:
-Conduite à risque
-
----
-
-![](images/intelectuel.jpg)
-notes:
-perte de factultés intelectuelles
-
----
-
-# Madame M.
-
-notes:
-Certains de ces symptomes ont tout des suites été repérés par nos confrères chez le deuxième sujet, Morgane, agé de 27 ans.
-
----
-
-<!-- .element: class="fragment" data-fragment-index="1" -->
