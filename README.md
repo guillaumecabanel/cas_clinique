@@ -174,7 +174,7 @@ Tout les deux :
 
 on vous aime
 
-vous êtes des pidji et des phénos
+vous êtes des énormes pidji
 
 on sait que vous allez faire des belles pépites
 
