@@ -3,3 +3,12 @@ img{
   max-height: 100% !important;
   border: none !important;
 }
+
+.bar{
+  text-decoration: line-through !important;
+}
+
+.red{
+  font-weight: bold !important;
+  color: red;
+}
