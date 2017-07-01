@@ -170,4 +170,12 @@ G :C'est claire. Bon, je crois qu'on a plus le temps de préparer un discours...
 
 L : C'est pas très grave, en gros il faut dire le principal :
 
-Tout les deux : on vous aime, vous êtes des pidji et des phénos et on est heureux !
+Tout les deux :
+
+on vous aime
+
+vous êtes des pidji et des phénos
+
+on sait que vous allez faire des belles pépites
+
+et ce soir on est les plus heureux !
